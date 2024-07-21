@@ -1,0 +1,4 @@
+/* Internal page global footer width adjustument rdar://problem/32052947 */
+section.footer--internal .ac-gf-footer-legal-copyright {
+  width: 85%; }
+

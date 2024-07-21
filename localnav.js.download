@@ -1,0 +1,2 @@
+document.querySelector(".localnav-menu a[href='"+location.pathname+"']").setAttribute("aria-current","page");
+
